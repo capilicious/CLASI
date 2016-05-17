@@ -1,6 +1,6 @@
 {
   "name": "CLASI - Community Learning About Security Issues",
   "tagline": "community learning about security issues",
-  "body": "### Welcome to CLASI.\r\nCLASI, or community learning about security issues, is a github project designed to help programmers learn about security issues.\r\n[Coverity Scan Results](https://scan.coverity.com/projects/clasi)\r\n![Coverity Scan Build Status](https://scan.coverity.com/projects/8891/badge.svg)\r\n",
+  "body": "### Welcome to CLASI.\r\nCLASI, or community learning about security issues, is a github project designed to help programmers learn about security issues.\r\nhttps://github.com/capilicious/CLASI/generated_pages/new#\r\n[Coverity Scan Results](https://scan.coverity.com/projects/clasi)\r\n![Coverity Scan Build Status](https://scan.coverity.com/projects/8891/badge.svg)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
